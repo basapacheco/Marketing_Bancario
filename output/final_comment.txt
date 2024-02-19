@@ -1,0 +1,5 @@
+
+Resumen de los resultados:
+- Se han derivado insights sobre la efectividad de la campaña tanto para el conjunto de datos completo como para cada categoría de "deposit" (yes/no).
+- Se han recomendado estrategias de marketing para mejorar las tasas de suscripción para el conjunto de datos completo y para cada categoría de "deposit" por separado.
+- Los insights y recomendaciones se han guardado en archivos o documentos para su presentación o referencia futura.
