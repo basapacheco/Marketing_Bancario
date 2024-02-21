@@ -35,7 +35,7 @@ El objetivo de este proyecto es realizar un análisis exhaustivo sobre la efecti
 1. Investigar y Documentar la API donde se implementará.
 2. Desarrollar un Script de Obtención de Datos.
 3. Actualización del Jupyter Notebook.
-4. Normalización de los Datos: Asegúrate de que los datos obtenidos de la API estén normalizados de manera adecuada para que se adapten al modelo existente.
+4. Normalización de los Datos: Asegúrar de que los datos obtenidos de la API estén normalizados de manera adecuada para que se adapten al modelo existente.
 5. Actualización Automatizada del CSV.
 6. Programación de la Actualización.
 7. Monitoreo y Mantenimiento.
